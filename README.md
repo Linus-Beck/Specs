@@ -9,3 +9,4 @@ Apropos a very good Course on how to wok with Claude code is this one: https://m
 - build my own Home assistant (Jarvis like)
 - set up own subnet for the Homelab Part
 - code my own Homelab Dashboard <- Next task
+- own Calender app
