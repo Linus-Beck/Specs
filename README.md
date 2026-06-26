@@ -8,4 +8,4 @@ Apropos a very good Course on how to wok with Claude code is this one: https://m
 - connect security Cameras around my House
 - build my own Home assistant (Jarvis like)
 - set up own subnet for the Homelab Part
-- code my own Homelab Dashboard
+- code my own Homelab Dashboard <- Next task
